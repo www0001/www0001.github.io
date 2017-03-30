@@ -1,0 +1,1 @@
+logout_button = '3000';
